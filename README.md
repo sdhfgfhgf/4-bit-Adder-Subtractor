@@ -73,4 +73,6 @@ Example case from Lab:
 A = 1111, B = 0110, Add/Sub = 1
 Output: 1001 → LEDG0 and LEDG3 light up.
 
+<img src="Image/HEIF Image.jpeg" alt="demo" width="50%" />
+
 ⸻
